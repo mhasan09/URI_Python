@@ -1,0 +1,6 @@
+num=int(input())
+work=float(input())
+per_hour=float(input())
+salary=(work*per_hour)
+print("NUMBER =",num)
+print("SALARY = U$% 0.2f"%salary)
