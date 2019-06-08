@@ -1,4 +1,5 @@
-x=float(input())
+y=float(input())
+x=float('%.2f'%y)
 a=x//100
 b=x%100
 c=b//50
